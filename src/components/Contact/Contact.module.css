@@ -1,0 +1,39 @@
+.card {
+  border: 2px solid #19191a;
+  border-radius: 3px;
+  width: 320px;
+  padding: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: sans-serif;
+}
+
+.name {
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
+
+.number {
+  margin: 0;
+}
+
+.btn {
+  border-radius: 3px;
+  border: none;
+  border: 1px solid #545452;
+  padding: 3px 5px;
+}
+
+.person {
+  margin-right: 4px;
+  height: 20px;
+  width: 20px;
+}
+
+.phone {
+  margin-right: 4px;
+  height: 15px;
+  width: 20px;
+}

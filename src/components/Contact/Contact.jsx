@@ -1,5 +1,4 @@
 import css from "./Contact.module.css";
-
 import { MdPerson } from "react-icons/md";
 import { FaPhoneAlt } from "react-icons/fa";
 import { useDispatch } from "react-redux";
